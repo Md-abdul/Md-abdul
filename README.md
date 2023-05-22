@@ -1,2 +1,2 @@
-Hello I am MD ABDUL QADIR...
+                                                               Hi 👋, I'm Md Abdul Qadir
 
