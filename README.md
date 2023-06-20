@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Abdul Qadir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://www.42gears.com/wp-content/uploads/2022/08/Asset-13.png" align="right" width="400"/>
+<img src="https://www.42gears.com/wp-content/uploads/2022/08/Asset-13.png" align="right" width="500" margin-bottom="10"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="md-abdul" /> </p>
 
