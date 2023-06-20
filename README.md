@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Abdul Qadir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="![image](https://github.com/Md-abdul/Md-abdul/assets/112768514/8e847973-de17-455e-a07f-f7de6f5d7c5a)" align="right" width="500" alt="code Gif"/>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="code gif" align="right" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="md-abdul" /> </p>
 
