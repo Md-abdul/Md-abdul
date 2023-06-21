@@ -3,7 +3,7 @@
 
 <hr/>
 
-<img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="code gif" width="400"/>
+<img margin-left="500" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="code gif" width="400"/>
 
 <p align="center""> <img src="https://komarev.com/ghpvc/?username=md-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="md-abdul" /> </p>
 
