@@ -3,9 +3,8 @@
 
 <hr/>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="code gif" style="width: 400px;">
-</div>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="code gif" style="display: block; margin: 0 auto;">
+
 
 <p align="center""> <img src="https://komarev.com/ghpvc/?username=md-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="md-abdul" /> </p>
 
