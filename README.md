@@ -5,7 +5,9 @@
 
 <hr/>
 
- <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="code gif" style="display: block;  margin: auto; align-item: center;">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <p align="center"" > <img src="https://komarev.com/ghpvc/?username=md-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="md-abdul" /> </p>
 
