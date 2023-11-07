@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Abdul Qadir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="md-abdul" /> </p>
+<p align="right"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="md-abdul" /> </p>
 
 - 🌱 I’m currently learning **Angular**
 
