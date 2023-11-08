@@ -1,17 +1,17 @@
-<h1 style="text-align: right;">Hi 👋, I'm Md Abdul Qadir</h1>
-<h3 style="text-align: right;">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Md Abdul Qadir</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="md-abdul" style="float: right;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="md-abdul" /> </p>
 
-<div style="float: left;">
-    <ul>
-        <li>🌱 I’m currently learning **Angular**</li>
-        <li>👨‍💻 All of my projects are available at [Portfolio](https://md-abdul.github.io/)</li>
-        <li>💬 Ask me about **Javascript, React, NodeJS**</li>
-        <li>📫 How to reach me **mdabdulq62@gmail.com**</li>
-        <li>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kPQzRRLng5ZdCBcira_ARtw0-eWzXYdL/view?usp=sharing)</li>
-    </ul>
-</div>
+- 🌱 I’m currently learning **Angular**
+
+- 👨‍💻 All of my projects are available at [https://md-abdul.github.io/](https://md-abdul.github.io/)
+
+- 💬 Ask me about **Javascript, React, NodeJS**
+
+- 📫 How to reach me **mdabdulq62@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kPQzRRLng5ZdCBcira_ARtw0-eWzXYdL/view?usp=sharing](https://drive.google.com/file/d/1kPQzRRLng5ZdCBcira_ARtw0-eWzXYdL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-abdul&show_icons=true&locale=en" alt="md-abdul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-abdul&" alt="md-abdul" /></p>
-
