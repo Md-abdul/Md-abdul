@@ -26,32 +26,32 @@
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" alt="React" width='90px' height="30px" />
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic" alt="Redux" />
+    <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic" alt="Redux" width='90px' height="30px" />
   </a>
   <a href="https://reactrouter.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=plastic" alt="React Router" />
+    <img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=plastic" alt="React Router" width='90px' height="30px" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic" alt="HTML" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic" alt="HTML" width='90px' height="30px" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic" alt "CSS" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic" width='90px' height="30px" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic" alt="JavaScript" width='90px' height="30px" />
   </a>
     <a href="https://chakra-ui.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra-ui&logoColor=white&style=plastic" alt="Chakra UI" />
+    <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra-ui&logoColor=white&style=plastic" alt="Chakra UI" width='90px' height="30px" />
   </a>
   <br/>
   <a href="https://axios-http.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Axios-0080FF?logo=axios&logoColor=white&style=plastic" alt="Axios" />
+    <img src="https://img.shields.io/badge/-Axios-0080FF?logo=axios&logoColor=white&style=plastic" alt="Axios" width='90px' height="30px" />
   </a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" alt="TypeScript" width='90px' height="30px" />
   </a>
   <a href="https://styled-components.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=plastic" alt="Styled Components" />
+    <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=plastic" alt="Styled Components" width='90px' height="30px" />
   </a>
 </p>
 
