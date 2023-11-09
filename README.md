@@ -51,33 +51,33 @@
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" alt="TypeScript" width='90px' height="30px" />
   </a>
   <a href="https://styled-components.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=plastic" alt="Styled Components" width='90px' height="30px" />
+    <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=plastic" alt="Styled Components" width='150px' height="30px" />
   </a>
 </p>
 
 <h4 align="center">Backend:</h4>
 <p align="center">
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=plastic" alt="Mongoose" />
+    <img src="https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=plastic" alt="Mongoose" width='90px' height="30px" />
   </a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" alt="MongoDB" width='90px' height="30px" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic" alt="Node.js" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic" alt="Node.js" width='90px' height="30px" />
   </a>
 </p>
 
 <h4 align="center">Tools:</h4>
 <p align="center">
   <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic" alt="Postman" />
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic" alt="Postman" width='90px' height="30px" />
   </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=plastic" alt="VSCode" />
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=plastic" alt="VSCode" width='90px' height="30px" />
   </a>
   <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=plastic" alt="Netlify" />
+    <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=plastic" alt="Netlify" width='90px' height="30px" />
   </a>
   <!-- Add more tools as needed -->
 </p>
