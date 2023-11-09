@@ -40,6 +40,18 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic" alt="JavaScript" />
   </a>
+    <a href="https://chakra-ui.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra-ui&logoColor=white&style=plastic" alt="Chakra UI" />
+  </a>
+  <a href="https://axios-http.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Axios-0080FF?logo=axios&logoColor=white&style=plastic" alt="Axios" />
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic" alt="TypeScript" />
+  </a>
+  <a href="https://styled-components.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=plastic" alt="Styled Components" />
+  </a>
 </p>
 
 <h4 align="center">Backend:</h4>
