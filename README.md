@@ -13,8 +13,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kPQzRRLng5ZdCBcira_ARtw0-eWzXYdL/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-abdul-qadir-10673b246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" height="30" width="40" /></a>
 </p>
 
@@ -25,36 +25,51 @@
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" alt="React" />
   </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=plastic" alt="Angular" />
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic" alt="Redux" />
   </a>
-  <!-- Add more frontend technologies as needed -->
+  <a href="https://reactrouter.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=plastic" alt="React Router" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic" alt="HTML" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic" alt "CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic" alt="JavaScript" />
+  </a>
 </p>
 
 <h4 align="center">Backend:</h4>
 <p align="center">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic" alt="Express" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic" alt="Node.js" />
-  </a>
-  <!-- Add more backend technologies as needed -->
-</p>
-
-<h4 align="center">Tools:</h4>
-<p align="center">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic" alt="Git" />
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=plastic" alt="Mongoose" />
   </a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" alt="MongoDB" />
   </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic" alt="Node.js" />
+  </a>
+</p>
+
+<h4 align="center">Tools:</h4>
+<p align="center">
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic" alt="Postman" />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=plastic" alt="VSCode" />
+  </a>
+  <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=plastic" alt="Netlify" />
+  </a>
   <!-- Add more tools as needed -->
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-abdul&show_icons=true&locale=en&layout=compact" alt="md-abdul" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-abdul&show_icons=true&locale=en&layout=compact" alt="md-abdul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-abdul&show_icons=true&locale=en" alt="md-abdul" /></p>
 
