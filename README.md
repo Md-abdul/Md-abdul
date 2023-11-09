@@ -23,7 +23,7 @@
 <h4 align="center">Frontend:</h4>
 <p align="center">
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" alt="React" />
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" alt="React" width='50px' height="15px" />
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic" alt="Redux" />
@@ -43,6 +43,7 @@
     <a href="https://chakra-ui.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra-ui&logoColor=white&style=plastic" alt="Chakra UI" />
   </a>
+  <br/>
   <a href="https://axios-http.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Axios-0080FF?logo=axios&logoColor=white&style=plastic" alt="Axios" />
   </a>
