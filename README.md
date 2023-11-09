@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://md-abdul.github.io/](https://md-abdul.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://md-abdul.github.io/)
 
 - 💬 Ask me about **Javascript, React, NodeJS**
 
 - 📫 How to reach me **mdabdulq62@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kPQzRRLng5ZdCBcira_ARtw0-eWzXYdL/view?usp=sharing](https://drive.google.com/file/d/1kPQzRRLng5ZdCBcira_ARtw0-eWzXYdL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kPQzRRLng5ZdCBcira_ARtw0-eWzXYdL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
