@@ -23,7 +23,7 @@
 <h4 align="center">Frontend:</h4>
 <p align="center">
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" alt="React" width='50px' height="15px" />
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" alt="React" width='90px' height="30px" />
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic" alt="Redux" />
