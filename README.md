@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Abdul Qadir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="md-abdul" /> </p>
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-  
+<img align="right" alt="coding" width="600px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<div marginTop:"30px">
   - 🌱 I’m currently learning **Angular**
   
   - 👨‍💻 All of my projects are available at [Portfolio](https://md-abdul.github.io/)
@@ -15,18 +11,20 @@
   - 📫 How to reach me **mdabdulq62@gmail.com**
   
   - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kPQzRRLng5ZdCBcira_ARtw0-eWzXYdL/view?usp=sharing)
-  
-  </div>
-  <div style="flex: 1; align:'right" >
-    <img  src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Profile Image" width="600px"; align:'right" >
-  </div>
+
+    ### Fun fact
+    😎 Fun fact about a full stack web developer: I debug code with the same determination I use to find reasons to smile – even in the trickiest coding challenges! 💻😄
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="md-abdul" /> </p>
 </div>
 
+<hr/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-abdul-qadir-10673b246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" height="30" width="40" /></a>
 </p>
+
+<hr/>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -92,8 +90,9 @@
   <!-- Add more tools as needed -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-abdul&show_icons=true&locale=en&layout=compact" alt="md-abdul" /></p>
+<hr/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-abdul&show_icons=true&locale=en&layout=compact" alt="md-abdul" />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=md-abdul&show_icons=true&locale=en" alt="md-abdul" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=md-abdul&show_icons=true&locale=en" alt="md-abdul" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-abdul&" alt="md-abdul" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=md-abdul&" alt="md-abdul" />
