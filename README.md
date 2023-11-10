@@ -3,15 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="md-abdul" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+  
+  - 🌱 I’m currently learning **Angular**
+  
+  - 👨‍💻 All of my projects are available at [Portfolio](https://md-abdul.github.io/)
+  
+  - 💬 Ask me about **Javascript, React, NodeJS**
+  
+  - 📫 How to reach me **mdabdulq62@gmail.com**
+  
+  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kPQzRRLng5ZdCBcira_ARtw0-eWzXYdL/view?usp=sharing)
+  
+  </div>
+  <div style="flex: 1;">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Profile Image">
+  </div>
+</div>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://md-abdul.github.io/)
-
-- 💬 Ask me about **Javascript, React, NodeJS**
-
-- 📫 How to reach me **mdabdulq62@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kPQzRRLng5ZdCBcira_ARtw0-eWzXYdL/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
