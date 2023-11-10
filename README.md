@@ -17,7 +17,7 @@
   - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kPQzRRLng5ZdCBcira_ARtw0-eWzXYdL/view?usp=sharing)
   
   </div>
-  <div style="flex: 1; align:'left">
+  <div style="flex: 1; align:'right">
     <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Profile Image">
   </div>
 </div>
