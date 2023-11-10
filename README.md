@@ -18,7 +18,7 @@
   
   </div>
   <div style="flex: 1; align:'right" >
-    <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Profile Image" width="600px">
+    <img  src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Profile Image" width="600px"; align:'right" >
   </div>
 </div>
 
