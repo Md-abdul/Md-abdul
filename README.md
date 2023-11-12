@@ -21,7 +21,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" target="_blank"><img align="center" src="https://mariruddy.com/wp-content/uploads/2020/01/2019-triathlon-bike-at-T1.jpg" alt="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" width="100px" height="80px" /></a>
 </p>
 
 <hr/>
