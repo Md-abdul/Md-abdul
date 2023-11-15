@@ -10,7 +10,7 @@
   
   - 📫 How to reach me **mdabdulq62@gmail.com**
   
-  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10LULZvVQnCleQXTGR8Ie65bKWkjpeeI0/view?usp=sharing)
+  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M-rXFMO-O_nrT32l0ZAJa1H-iU3tI2Ub/view?usp=sharing)
 
     ### Fun fact
     😎 Fun fact about a full stack web developer: I debug code with the same determination I use to find reasons to smile – even in the trickiest coding challenges! 💻😄
