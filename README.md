@@ -13,7 +13,7 @@
   - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M-rXFMO-O_nrT32l0ZAJa1H-iU3tI2Ub/view?usp=sharing)
 
     ### Fun fact
-    😎 Fun fact about a full stack web developer: I debug code with the same determination I use to find reasons to smile – even in the trickiest coding challenges! 💻😄
+    😎 My keyboard has more fingerprints than a detective's crime scene – each key tells a story of endless coding adventures! ⌨️🕵️‍♂️💻😄
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="md-abdul" /> </p>
 </div>
 
