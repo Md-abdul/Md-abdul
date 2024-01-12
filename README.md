@@ -19,9 +19,10 @@
 
 <hr/>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic" alt="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" height="30px"  /></a>
+<h3 align="center">Connect with me: </h3> 
+<!-- <img align="center" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"/> -->
+<p align="center"> 
+ <a href="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic" alt="https://www.linkedin.com/in/md-abdul-qadir-10673b246/" height="30px"  /></a>
 </p>
 
 <hr/>
