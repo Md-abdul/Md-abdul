@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Abdul Qadir</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India ! </h3>
+<h3 align="center">A passionate Full Stack Web Developer from India !.. </h3>
 <img align="right" alt="coding" width="500px" height="350px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <div marginTop:"30px">
   - 🌱 I’m currently learning **Angular**
