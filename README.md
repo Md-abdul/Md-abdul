@@ -10,7 +10,7 @@
   
   - 📫 How to reach me **mdabdulq62@gmail.com**
   
-  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M-rXFMO-O_nrT32l0ZAJa1H-iU3tI2Ub/view?usp=sharing)
+  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nwWQ_aJ7S4eMDZyVvb6dC55Azzg5V1oK/view?usp=sharing)
 
     ### Fun fact
     😎 My keyboard has more fingerprints than a detective's crime scene – each key tells a story of endless coding adventures! ⌨️🕵️‍♂️💻😄
