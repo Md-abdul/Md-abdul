@@ -13,7 +13,7 @@
   - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mQXYauTeYA2H1u0Nzl6XhSSf1UwUmPmR/view?usp=sharing)
 
     ### Fun fact
-    😎 My keyboard has more fingerprints than a detective's crime scene – each key tells a story of endless coding adventures! ⌨️🕵️‍♂️💻😄
+    😎 My keyboard has more fingerprints than a detective's crime scene – each key tells a story of endless coding adventures! ⌨️🕵️‍♂️💻😄...
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-abdul&label=Profile%20views&color=0e75b6&style=flat" alt="md-abdul" /> </p>
 </div>
 
